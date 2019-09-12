@@ -1,1 +1,1 @@
-[Github Profile] (https://www.google.com)
+[Github Profile](https://www.google.com)
