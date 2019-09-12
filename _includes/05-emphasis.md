@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#Whose rooms are whose
+
+*Media Room*
+_Master Bedroom_
+
+**Craft Room**
+__Kitchen__
+
+_We like to  **share** them_
